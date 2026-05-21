@@ -1,0 +1,13 @@
+{
+  "name": "swish-control-center",
+  "version": "1.0.0",
+  "description": "Swish Network Infrastructure - Control Center",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
